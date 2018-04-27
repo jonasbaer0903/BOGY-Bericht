@@ -29,3 +29,15 @@
 \contentsline {section}{\numberline {3.4}Probleme}{5}{section.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.5}Arbeitsergebnisse}{5}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Erkundeter Beruf}{6}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}ALlgemeines}{6}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Arbeitsweise}{6}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}wichtige F\IeC {\"a}higkeiten}{9}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Umgang mit dem Arbeitsumfeld}{9}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Zukunftsprognose}{9}{section.4.5}

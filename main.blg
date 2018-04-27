@@ -1,9 +1,9 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is 'main.blg'
-[37] biber-darwin:303> INFO - === Fri Apr 27, 2018, 13:06:19
-[57] Biber.pm:359> INFO - Reading 'main.bcf'
-[143] Biber.pm:832> INFO - Using all citekeys in bib section 0
-[156] Biber.pm:3670> INFO - Processing section 0
-[169] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[285] Utils.pm:180> ERROR - Cannot find 'bibliography.bib'!
-[285] Biber.pm:113> INFO - ERRORS: 1
+[42] biber-darwin:303> INFO - === Fri Apr 27, 2018, 14:19:58
+[64] Biber.pm:359> INFO - Reading 'main.bcf'
+[158] Biber.pm:832> INFO - Using all citekeys in bib section 0
+[172] Biber.pm:3670> INFO - Processing section 0
+[185] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[308] Utils.pm:180> ERROR - Cannot find 'bibliography.bib'!
+[308] Biber.pm:113> INFO - ERRORS: 1
