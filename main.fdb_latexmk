@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber main"] 1524831597 "main.bcf" "main.bbl" "main" 1524831616
+["biber main"] 1524831921 "main.bcf" "main.bbl" "main" 1524831923
   "bibliography.bib" 0 -1 0 ""
-  "main.bcf" 1524831616 95876 2cddf0b36933362184f77d0ab85a43bf ""
+  "main.bcf" 1524831923 95884 f28fe07dfaa27b4037867c5959c807aa ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1524831614 "/Users/developermac/Desktop/bogy bericht LaTex/main.tex" "main.pdf" "main" 1524831616
-  "/Users/developermac/Desktop/bogy bericht LaTex/main.tex" 1524831612 537 99b89e6a23c6b37ff0cf2bc16d850599 ""
+["pdflatex"] 1524831921 "/Users/developermac/Desktop/bogy bericht LaTex/main.tex" "main.pdf" "main" 1524831923
+  "/Users/developermac/Desktop/bogy bericht LaTex/main.tex" 1524831919 545 8b49d6aaaa2cbbedb93d8492bc55ddbb ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1480098666 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1480098696 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
@@ -144,18 +144,18 @@
   "include/images/Kaufland.png" 1524816366 27222 89e608610e0d22d140766206170dbc18 ""
   "include/images/Unternehmensstruktur.png" 1524820882 50533 e8ba2506fd20e11e7bc913942523fc06 ""
   "include/titlepage.tex" 1524824396 943 4293cef8034ff991c203090ecce0975d ""
-  "main.aux" 1524831616 7921 fc9af5176a76f919aab598302ca364cd ""
+  "main.aux" 1524831923 7921 fc9af5176a76f919aab598302ca364cd ""
   "main.bbl" 1524831598 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.out" 1524831616 1257 137074623d809dd6726cf323ce875054 ""
-  "main.run.xml" 1524831616 2343 7a91ff07b7908514e6b12564be7e0284 ""
-  "main.tex" 1524831612 537 99b89e6a23c6b37ff0cf2bc16d850599 ""
-  "main.toc" 1524831616 2436 9e0189fdb1f32e42c9413f2489494df4 ""
+  "main.out" 1524831923 1257 137074623d809dd6726cf323ce875054 ""
+  "main.run.xml" 1524831923 2351 c2107ba648c5dfe34846b3a4178e465a ""
+  "main.tex" 1524831919 545 8b49d6aaaa2cbbedb93d8492bc55ddbb ""
+  "main.toc" 1524831923 2436 9e0189fdb1f32e42c9413f2489494df4 ""
   "settings.tex" 1524815872 1786 54ffe1197ea0a32c9298ee1b605751f9 ""
   (generated)
-  "main.toc"
-  "main.log"
   "main.out"
-  "main.pdf"
-  "main.aux"
   "main.run.xml"
+  "main.aux"
+  "main.log"
+  "main.pdf"
   "main.bcf"
+  "main.toc"

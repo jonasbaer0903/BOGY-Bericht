@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.25)  27 APR 2018 14:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.25)  27 APR 2018 14:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1513,8 +1513,8 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  20748 strings out of 492995
- 353606 string characters out of 6132704
- 940090 words of memory out of 5000000
+ 353630 string characters out of 6132704
+ 940130 words of memory out of 5000000
  23971 multiletter control sequences out of 15000+600000
  13296 words of font info for 32 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
